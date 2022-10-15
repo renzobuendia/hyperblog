@@ -41,10 +41,7 @@ body {
 }
 
 #post {
-<<<<<<< HEAD
     background: white;
-    padding: 1em;
-=======
     padding: 1em;
 }
 
@@ -52,5 +49,4 @@ body {
     background: #777;
     color: white;
     text-align: center;
->>>>>>> fooder
 }
